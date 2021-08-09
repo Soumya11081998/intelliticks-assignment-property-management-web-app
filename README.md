@@ -1,0 +1,1 @@
+# intelliticks-assignment-property-management-web-app
