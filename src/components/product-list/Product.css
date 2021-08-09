@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+}
+
+.product .details {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 20px;
+}
+
+.product .details .name {
+    font-weight: 600;
+}
+
+.product .details .button {
+    background-color: rgb(88, 214, 88);
+    padding: 10px 40px;
+    border-radius: 2px;
+    width: 200px;
+    border: transparent;
+    color: white;
+}
